@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: nvidia/cuda:9.0-cudnn7.0-devel
+From: nvidia/cuda:9.0-cudnn7.0.5
 
 %labels
 Maintainer Ismail Elezi
